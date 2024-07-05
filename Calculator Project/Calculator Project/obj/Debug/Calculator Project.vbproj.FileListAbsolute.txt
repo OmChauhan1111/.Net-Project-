@@ -1,0 +1,10 @@
+D:\Visual Studio Program\Projects\Calculator Project\Calculator Project\bin\Debug\Calculator Project.exe.config
+D:\Visual Studio Program\Projects\Calculator Project\Calculator Project\bin\Debug\Calculator Project.exe
+D:\Visual Studio Program\Projects\Calculator Project\Calculator Project\bin\Debug\Calculator Project.pdb
+D:\Visual Studio Program\Projects\Calculator Project\Calculator Project\bin\Debug\Calculator Project.xml
+D:\Visual Studio Program\Projects\Calculator Project\Calculator Project\obj\Debug\WindowsApplication1.Form1.resources
+D:\Visual Studio Program\Projects\Calculator Project\Calculator Project\obj\Debug\WindowsApplication1.Resources.resources
+D:\Visual Studio Program\Projects\Calculator Project\Calculator Project\obj\Debug\Calculator Project.vbproj.GenerateResource.Cache
+D:\Visual Studio Program\Projects\Calculator Project\Calculator Project\obj\Debug\Calculator Project.exe
+D:\Visual Studio Program\Projects\Calculator Project\Calculator Project\obj\Debug\Calculator Project.xml
+D:\Visual Studio Program\Projects\Calculator Project\Calculator Project\obj\Debug\Calculator Project.pdb
